@@ -1,2 +1,1 @@
-# Breacher-C-plus-plus
-Breacher on c++
+# Breacher-C++
