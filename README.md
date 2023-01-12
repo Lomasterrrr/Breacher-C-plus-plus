@@ -2,7 +2,7 @@
 ![alt text](https://i.imgur.com/IvKtjjW.png)
 
  - Exclusively to test **your site** for **security**!
- - Finds php site **admin panel**.
+ - Finds site **admin panel**.
  - **Dependencies**: libcirl
 
 ## Linux
