@@ -3,7 +3,7 @@
 
  - Exclusively to test **your site** for **security**!
  - Finds site **admin panel**.
- - **Dependencies**: libcirl
+ - **Dependencies**: libcurl
  
 ## $Linux
 1.  git **clone** https://github.com/Lomasterrrr/Breacher-C-plus-plus.git
